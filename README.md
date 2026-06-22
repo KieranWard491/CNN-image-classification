@@ -1,2 +1,30 @@
 # CNN-image-classification
-Deep learning project demonstrating the design, training, and evaluation of convolutional neural networks for image classification tasks.
+Convolutional Neural Network (CNN) developed as part of a university Deep Learning assignment. The project investigates image classification performance and explores the impact of network architecture and hyperparameter choices.
+
+Objectives
+
+- Build and train a CNN model
+- Evaluate classification performance
+- Compare different configurations
+- Analyse training and validation metrics
+
+Technologies
+
+- Python
+- TensorFlow / Keras (or PyTorch)
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+Results 
+
+- Final Accuracy
+- Loss Curves
+
+Key Learning Outcomes
+
+- Understanding convolutional layers
+- Pooling operations
+- Overfitting and regularisation
+- Hyperparameter tuning
+- Model evaluation
