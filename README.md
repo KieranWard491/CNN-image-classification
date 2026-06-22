@@ -150,6 +150,7 @@ This experiment explored the trade-off between computational efficiency, trainin
 ## Repository Structure
 
 
+```text
 cnn-image-classification/
 │
 ├── README.md
@@ -161,6 +162,7 @@ cnn-image-classification/
 │   └── Final_Best_Model.png
 │
 └── requirements.txt
+```
 
 
 ## Learning Outcomes
